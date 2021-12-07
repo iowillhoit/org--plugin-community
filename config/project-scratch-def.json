@@ -1,0 +1,19 @@
+{
+  "orgName": "plugin-info company",
+  "edition": "Developer",
+  "features": [
+    "COMMUNITIES",
+    "EnableSetPasswordInApi"
+  ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
